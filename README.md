@@ -7,4 +7,4 @@ Ouvrez le fichier "main.py" puis copiez-coller le tout dans votre emplacement de
 
 Vous pouvez supprimez mes crédits pour envoyez le code à vos profs :p
 
-<img src="">
+<img src="https://github.com/RemiByPass/calculateur-de-pourcentage/blob/main/pourcentage.png?raw=true">
