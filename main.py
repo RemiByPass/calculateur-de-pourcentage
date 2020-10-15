@@ -8,4 +8,5 @@ while remise >=100:
     remise = float(input('Remise = '))
 total = prix*remise
 prix_total = total/100-prix
-print("Le produit (",prix,"€) coutera", -prix_total,"€ avec une remise de ", remise, "%")
+print("Le produit (",prix,"€ ) coutera", -prix_total,"€ avec une remise de", remise, "%")
+print("Mon discord: https://discord.gg/vEz64HF")
