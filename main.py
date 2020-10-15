@@ -1,3 +1,4 @@
+import time
 print("Codez par Remi_ByPass#7867")
 print("Valeur du prdouit (en €)")
 prix = float(input("Le produit vaut : "))
@@ -10,3 +11,4 @@ total = prix*remise
 prix_total = total/100-prix
 print("Le produit (",prix,"€ ) coutera", -prix_total,"€ avec une remise de", remise, "%")
 print("Mon discord: https://discord.gg/vEz64HF")
+time.sleep(5)
