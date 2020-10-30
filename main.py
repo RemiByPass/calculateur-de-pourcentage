@@ -1,5 +1,5 @@
 import time
-print("Codez par Remi_ByPass#7867")
+print("Codez par rxmii6z#7867")
 print("Valeur du produit (en €)")
 prix = float(input("Le produit vaut : "))
 time.sleep(1)
